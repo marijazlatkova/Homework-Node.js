@@ -1,0 +1,8 @@
+
+fullname: Marija Zlatkova, 
+age: 26, 
+profession: Software Engineer
+
+hometown: Probishtip, North Macedonia, 
+email: marijazlatkova44@yahoo.com, 
+favorite-activities: Watching Movies, Listening to Music, Travelling, Reading Books, Coding.
